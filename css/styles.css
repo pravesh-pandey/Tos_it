@@ -9,7 +9,15 @@
   display: inline-block;
 
 }
-
+.change {
+  
+  background-color:#393E46;
+  border-radius: 25%;
+  width: 10%;
+}
+.change:hover{
+  background-color: #2f3634;
+}
 body {
   background-color: #393E46;
 }
